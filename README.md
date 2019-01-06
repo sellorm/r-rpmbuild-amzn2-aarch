@@ -2,7 +2,7 @@
 
 There's **lots** to fix here and this is still very **experimental**.
 
-Most of it is based on the [Fedora R spec file](https://src.fedoraproject.org/rpms/R/blob/master/f/R.spec), the [RStudio article on build R from source] as well as my own experiences and observations.
+Most of it is based on the [Fedora R spec file](https://src.fedoraproject.org/rpms/R/blob/master/f/R.spec), the [RStudio article on build R from source](https://support.rstudio.com/hc/en-us/articles/218004217-Building-R-from-source) as well as my own experiences and observations.
 
 For a pre-built version see [builds.sellorm.com](https://builds.sellorm.com).
 
